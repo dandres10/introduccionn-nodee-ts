@@ -1,0 +1,23 @@
+{
+  "name": "introduccionn-nodee-ts",
+  "version": "1.0.0",
+  "description": "introduccion a node con ts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dandres10/introduccionn-nodee-ts.git"
+  },
+  "keywords": [
+    "nodets"
+  ],
+  "author": "Marlon Andres Leon Leon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dandres10/introduccionn-nodee-ts/issues"
+  },
+  "homepage": "https://github.com/dandres10/introduccionn-nodee-ts#readme"
+}
